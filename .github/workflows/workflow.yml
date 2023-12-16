@@ -26,13 +26,3 @@ jobs:
       - name: Run unit tests with nose
         run: nosetests -v --with-spec --spec-color --with-coverage --cover-package=app
 
-
-
-
-
-
-
-
-# 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
-
-# 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
